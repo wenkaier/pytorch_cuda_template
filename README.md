@@ -1,3 +1,3 @@
 # pytorch_cuda_template
 
-hello
+python demo.py
